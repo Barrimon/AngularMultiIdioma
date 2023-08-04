@@ -1,0 +1,10 @@
+{
+  "FirstName": "Vornamen",
+  "Example": "Beispiel",
+  "LastName": "Nachname",
+  "Age": "Age",
+  "Country": "Alter",
+  "City": "Stadt",
+  "Address": "Adresse",
+  "Language": "Sprache"
+}

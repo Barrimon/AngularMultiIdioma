@@ -9,7 +9,7 @@
     "test": "ng test",
     "build:href": "ng build --base-href ./",
     "delete:docs": "trash docs",
-    "copy:dist": "copyfiles dist/multilenguaje/*.* docs -f && copyfiles dist/multilenguaje/assets/i18n/*.* docs/assets/i18n -f",
+    "copy:dist": "copyfiles dist/multilenguaje/*.* docs -f && copyfiles dist/multilenguaje/assets/i18n/*.* docs/AngularMultiIdioma/assets/i18n -f",
     "build:full": "npm run delete:docs && npm run build:href && npm run copy:dist"
   },
   "private": true,
